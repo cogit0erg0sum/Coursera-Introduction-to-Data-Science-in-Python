@@ -2,7 +2,11 @@ Introduction to Data Science in Python
 
 
 About this Course
+
+
 Taught by: Christopher Brooks
+
+
 University of Michigan
 
 
